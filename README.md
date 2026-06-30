@@ -90,3 +90,79 @@ Leadership identified several strategic questions that were limiting business gr
 Without a comprehensive analytics solution, different teams relied on fragmented reports, making it difficult to measure performance, identify improvement opportunities, and prioritize business initiatives.
 
 To address these challenges, EduMax initiated this end-to-end Business Analytics project to build a centralized analytics framework that combines SQL, Python, and Power BI to analyze learner behavior, measure business performance, develop executive dashboards, and provide actionable recommendations for stakeholders.
+
+---
+
+## Business Objectives
+
+The primary objective of this project is to establish a comprehensive Business Analytics framework that enables EduMax to make informed, data-driven decisions across the learner lifecycle.
+
+The project focuses on achieving the following business objectives:
+
+### 1. Understand Learner Engagement
+
+- Analyze learner activity after enrollment.
+- Measure engagement across different courses and learner segments.
+- Identify patterns that influence learner participation.
+
+### 2. Identify Learner Drop-off Points
+
+- Map the learner journey from enrollment to course completion.
+- Identify where learners disengage during their learning experience.
+- Quantify drop-off rates and highlight opportunities to improve learner retention.
+
+### 3. Evaluate Revenue Performance
+
+- Analyze overall revenue trends and payment behavior.
+- Identify the primary drivers of revenue growth.
+- Measure the relationship between enrollments, premium courses, and revenue generation.
+
+### 4. Measure Course Performance
+
+- Evaluate course popularity, completion rates, and learner outcomes.
+- Compare course categories to identify high-performing and underperforming offerings.
+- Support decisions related to course portfolio optimization.
+
+### 5. Analyze Assessment Performance
+
+- Measure learner assessment outcomes across different courses.
+- Identify factors associated with successful learner performance.
+- Support improvements to learning effectiveness.
+
+### 6. Segment Learners
+
+- Group learners based on engagement behavior, demographics, and course participation.
+- Identify high-value learner segments.
+- Support targeted engagement and retention strategies.
+
+### 7. Develop Business KPIs
+
+Establish a standardized KPI framework to monitor business performance, including:
+
+- Learner Engagement Rate
+- Course Completion Rate
+- Revenue Performance
+- Active Learners
+- Average Learning Time
+- Assessment Success Rate
+- Customer Satisfaction
+- Premium Course Performance
+
+### 8. Build Executive Dashboards
+
+Develop interactive Power BI dashboards that enable stakeholders to:
+
+- Monitor business performance.
+- Track operational KPIs.
+- Explore learner behavior.
+- Support strategic decision-making.
+
+### 9. Deliver Actionable Business Recommendations
+
+Translate analytical findings into practical recommendations that help EduMax improve:
+
+- Learner engagement
+- Learner retention
+- Course effectiveness
+- Revenue performance
+- Business decision-making
