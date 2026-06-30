@@ -34,3 +34,30 @@ This project aims to demonstrate the ability to:
 - Build executive dashboards.
 - Deliver business recommendations.
 - Support stakeholder decision-making.
+
+## 📑 Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Repository Identity](#repository-identity)
+- [Repository Goal](#repository-goal)
+- [Success Criteria](#success-criteria)
+- [Business Problem](#business-problem)
+- [Business Objectives](#business-objectives)
+- [Business Context](#business-context)
+- [Target Stakeholders](#target-stakeholders)
+- [Project Scope](#project-scope)
+- [Dataset Overview](#dataset-overview)
+- [Data Dictionary](#data-dictionary)
+- [Project Architecture](#project-architecture)
+- [Business Questions](#business-questions)
+- [Methodology](#methodology)
+- [Tech Stack](#tech-stack)
+- [Project Workflow](#project-workflow)
+- [Repository Structure](#repository-structure)
+- [Key Deliverables](#key-deliverables)
+- [Results Preview](#results-preview)
+- [Business Impact](#business-impact)
+- [Project Roadmap](#project-roadmap)
+- [Future Improvements](#future-improvements)
+- [License](#license)
+- [Contact](#contact)
