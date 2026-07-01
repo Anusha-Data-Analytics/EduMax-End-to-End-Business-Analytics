@@ -674,7 +674,7 @@ The EduMax Business Analytics project produces a comprehensive set of deliverabl
 | Revenue Analysis | ✅ Completed | Comprehensive revenue analysis with business insights and KPI evaluation. |
 | Revenue Concentration Analysis | ✅ Completed | Revenue contribution analysis across courses and business segments. |
 | Revenue Driver Analysis | ✅ Completed | Identification of key business drivers influencing revenue performance. |
-| Revenue Time-Series Analysis | ✅ Completed | Revenue trend analysis over time with executive insights. |
+| Revenue Performance Analysis | ✅ Completed | Revenue trend analysis over time with executive insights. |
 | SQL Analysis | 🔄 In Progress | SQL scripts supporting business analysis and KPI calculations. |
 | Python Analysis | 🔄 In Progress | Data preparation, EDA, and business analysis notebooks. |
 | Power BI Dashboards | 🔄 In Progress | Interactive dashboards supporting executive decision-making. |
@@ -693,7 +693,7 @@ The EduMax Business Analytics project produces a comprehensive set of deliverabl
 - Revenue Analysis
 - Revenue Concentration Analysis
 - Revenue Driver Analysis
-- Revenue Time-Series Analysis
+- Revenue Performance Dashboard
 
 #### Currently In Progress
 
@@ -784,6 +784,7 @@ The Revenue Performance Dashboard developed during the completed revenue analysi
 <p align="center">
   <img src="Images/revenue_performance_dashboard.png" alt="EduMax Revenue Performance Dashboard" width="900">
 </p>
+
 ---
 
 ### Business Conclusion
@@ -888,7 +889,7 @@ The EduMax Business Analytics project continues to expand its business impact as
 - Revenue Analysis
 - Revenue Concentration Analysis
 - Revenue Driver Analysis
-- Revenue Time-Series Analysis
+- Revenue Performance Dashboard
 
 ### In Progress
 
@@ -923,7 +924,7 @@ The EduMax Business Analytics project is being developed through a structured, s
 | ✅ Completed | Revenue Funnel Analysis | Analyzed the conversion journey from user registration to enrollment and identified no revenue leakage after payment. |
 | ✅ Completed | Revenue Concentration Analysis | Assessed revenue distribution across courses and confirmed a diversified revenue portfolio. |
 | ✅ Completed | Revenue Driver Analysis | Investigated the factors influencing revenue generation and resolved stakeholder concerns regarding revenue growth. |
-| ✅ Completed | Revenue Time-Series Dashboard | Developed executive dashboards to monitor revenue trends and support business decision-making. |
+| ✅ Completed | Revenue Performance Dashboard | Developed executive dashboards to monitor revenue trends and support business decision-making. |
 | 🔄 In Progress | Learner Journey & Drop-off Analysis | Investigating learner behavior after enrollment to identify disengagement points and opportunities to improve retention. |
 | ⏳ Planned | Learner Engagement Analysis | Analyze learner participation patterns across courses and learner segments. |
 | ⏳ Planned | Course Performance Analysis | Evaluate course effectiveness, popularity, and completion performance. |
