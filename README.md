@@ -259,9 +259,9 @@ The project operates under the following constraints:
 - Results are intended to support decision-making within the simulated EduMax business environment.
 - Recommendations are based on analytical findings and available business evidence.
 
-  ---
+---
 
-  # Dataset Overview
+## Dataset Overview
 
 The EduMax Business Analytics project is built using multiple interconnected datasets that represent the core operational functions of an online learning platform. Together, these datasets capture the complete learner lifecycle—from user registration and course enrollment to learning activity, assessments, feedback, and payments.
 
@@ -277,7 +277,7 @@ The data model enables comprehensive business analysis across learner engagement
 | **feedback.csv** | Customer Feedback | Contains learner ratings and feedback used to evaluate learner satisfaction and identify improvement opportunities. |
 | **payments.csv** | Financial Transactions | Records payment information used for revenue analysis, payment behavior analysis, and financial KPI reporting. |
 
-## Dataset Relationships
+### Dataset Relationships
 
 These datasets are connected through common business entities such as users, courses, enrollments, and payments, allowing analysis across the complete learner lifecycle.
 
@@ -285,7 +285,7 @@ The integrated data model supports cross-functional business analysis by connect
 
 ---
 
-# Data Dictionary
+## Data Dictionary
 
 The EduMax project consists of multiple business datasets representing different stages of the learner lifecycle. Each dataset contains attributes that support business analysis, KPI measurement, and decision-making.
 
@@ -314,4 +314,7 @@ Key relationships include:
 
 These relationships enable end-to-end business analysis across learner acquisition, engagement, performance, satisfaction, and revenue generation.
 
-> **Note:** Detailed field-level data dictionaries for each dataset are available in the `10_Documentation/Data_Dictionary` folder.
+> > **Note:** The original datasets are maintained in the `data/raw` directory. Cleaned and analysis-ready datasets will be stored in `data/curated` as the project progresses. Detailed field-level documentation will be added to the `documentation` folder during subsequent phases of the project.
+
+---
+
