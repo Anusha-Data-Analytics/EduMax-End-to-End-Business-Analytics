@@ -518,3 +518,33 @@ Business Recommendations
         ↓
 Decision Support
 ```
+---
+
+# Tech Stack
+
+The EduMax Business Analytics project utilizes industry-standard analytics technologies to transform raw operational data into business insights and executive decision support.
+
+| Technology | Role in the Project | Business Purpose |
+|------------|---------------------|------------------|
+| **SQL** | Data extraction, transformation, and business analysis | Analyze learner behavior, calculate KPIs, generate business reports, and answer stakeholder questions. |
+| **Python** | Data cleaning, preprocessing, exploratory data analysis (EDA), and visualization | Prepare analysis-ready datasets, uncover business patterns, perform statistical analysis, and generate insights. |
+| **Power BI** | Dashboard development and business intelligence | Develop interactive dashboards for KPI monitoring, executive reporting, and decision support. |
+| **Git & GitHub** | Version control and project documentation | Maintain project history, organize deliverables, and present a professional analytics portfolio. |
+
+## Python Libraries
+
+| Library | Purpose |
+|---------|---------|
+| **Pandas** | Data manipulation, cleaning, and transformation |
+| **NumPy** | Numerical computing and feature engineering |
+| **Matplotlib** | Business data visualization |
+| **Seaborn** | Statistical data visualization and exploratory analysis |
+
+## Project Deliverables by Technology
+
+| Technology | Key Deliverables |
+|------------|------------------|
+| **SQL** | Business queries, KPI calculations, analytical reports, and stakeholder-focused insights |
+| **Python** | Clean datasets, EDA notebooks, statistical analysis, and visualizations |
+| **Power BI** | Executive dashboards, KPI scorecards, and interactive business reports |
+| **GitHub** | Complete project documentation and portfolio presentation |
