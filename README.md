@@ -166,3 +166,34 @@ Translate analytical findings into practical recommendations that help EduMax im
 - Course effectiveness
 - Revenue performance
 - Business decision-making
+
+---
+
+# Business Context
+
+EduMax is a simulated EdTech organization created to replicate the business environment of a modern online learning platform. The company offers a diverse portfolio of courses to learners across multiple categories and generates large volumes of operational data through its day-to-day business activities.
+
+As EduMax expanded its learner base and course offerings, data was generated from every stage of the learner journey, including user registrations, course enrollments, learning sessions, assessments, learner feedback, and payment transactions. Although this data was readily available, it remained distributed across multiple business functions, limiting the organization's ability to generate meaningful insights and support strategic decision-making.
+
+The leadership team recognized the need for a centralized Business Analytics framework capable of transforming raw operational data into actionable business intelligence. Rather than relying on isolated reports, stakeholders required an integrated view of learner behavior, business performance, operational efficiency, and revenue trends to support organizational growth.
+
+This project simulates the role of a Business-Oriented Data Analyst responsible for partnering with cross-functional stakeholders to understand business requirements, define meaningful KPIs, analyze operational data, develop executive dashboards, and deliver actionable recommendations. Using SQL, Python, and Power BI, the project demonstrates how analytics can support evidence-based decision-making throughout the learner lifecycle.
+
+The project follows a consulting-style analytics approach where every analysis is driven by a business objective, every insight addresses a stakeholder question, and every recommendation is intended to improve organizational performance. Rather than focusing solely on technical implementation, the project emphasizes business understanding, stakeholder collaboration, KPI development, and decision support—the core responsibilities expected from a modern Data Analyst or Business Analyst.
+
+---
+
+# Target Stakeholders
+
+This project is designed to support multiple business stakeholders across EduMax. Each stakeholder has different business objectives, operational responsibilities, and decision-making requirements. The analytics performed throughout this project is aligned with their information needs to enable data-driven decision-making.
+
+| Stakeholder | Business Responsibility | Key Questions | Business Value |
+|-------------|-------------------------|---------------|----------------|
+| **Executive Leadership (CEO & Management)** | Monitor overall business performance and strategic growth | Is the business growing? Which areas require attention? What are the key business risks? | Executive dashboards, KPI monitoring, and strategic decision support |
+| **Product Team** | Improve course quality and learner experience | Which courses perform best? Where do learners disengage? Which features require improvement? | Course performance analysis, learner journey analysis, and engagement insights |
+| **Marketing Team** | Acquire and retain learners | Which learner segments are most valuable? Which campaigns should be prioritized? | Customer segmentation, enrollment trends, and retention insights |
+| **Academic & Content Team** | Enhance learning outcomes | Which courses have low completion rates? How do learners perform in assessments? | Course effectiveness analysis and assessment performance reporting |
+| **Finance Team** | Monitor revenue and payment performance | Which products generate the highest revenue? What are the revenue trends? | Revenue analysis, payment behavior analysis, and financial KPI reporting |
+| **Operations Team** | Improve operational efficiency | How efficiently are learners progressing? Where are operational bottlenecks? | Learner journey monitoring, engagement tracking, and operational reporting |
+
+The primary objective of this project is not simply to analyze data, but to provide each stakeholder with actionable insights that support informed decision-making. Every analysis, KPI, dashboard, and recommendation developed throughout this project is aligned with one or more stakeholder business objectives.
