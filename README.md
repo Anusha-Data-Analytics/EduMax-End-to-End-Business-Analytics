@@ -318,3 +318,63 @@ These relationships enable end-to-end business analysis across learner acquisiti
 
 ---
 
+## Project Architecture
+
+The EduMax Business Analytics project follows a structured analytics workflow that transforms raw operational data into business insights and executive decision support.
+
+```text
+Business Problem
+        │
+        ▼
+Business Understanding
+        │
+        ▼
+Raw Business Data
+(data/raw)
+        │
+        ▼
+Data Cleaning & Preparation
+(Python / SQL)
+        │
+        ▼
+Cleaned Data
+(data/cleaned)
+        │
+        ▼
+Exploratory Data Analysis (EDA)
+        │
+        ▼
+Business KPI Analysis
+        │
+        ▼
+SQL Analysis
+        │
+        ▼
+Python Analysis
+        │
+        ▼
+Business Insights
+        │
+        ▼
+Power BI Dashboards
+        │
+        ▼
+Business Recommendations
+        │
+        ▼
+Stakeholder Decision Support
+```
+
+### Architecture Components
+
+| Stage | Purpose | Primary Tools |
+|--------|---------|---------------|
+| Business Understanding | Define business problems, objectives, and stakeholder requirements | Documentation |
+| Data Collection | Gather operational datasets from multiple business functions | CSV Datasets |
+| Data Cleaning | Prepare reliable and analysis-ready data | Python, SQL |
+| Exploratory Data Analysis | Identify patterns, trends, and anomalies | Python |
+| Business Analysis | Answer stakeholder business questions using structured analysis | SQL, Python |
+| KPI Development | Define and calculate business performance metrics | SQL, Python |
+| Dashboard Development | Visualize business performance for stakeholders | Power BI |
+| Business Recommendations | Convert insights into actionable recommendations | Business Analysis |
+| Decision Support | Enable data-driven strategic decisions | Executive Dashboard |
