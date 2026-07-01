@@ -548,3 +548,127 @@ The EduMax Business Analytics project utilizes industry-standard analytics techn
 | **Python** | Clean datasets, EDA notebooks, statistical analysis, and visualizations |
 | **Power BI** | Executive dashboards, KPI scorecards, and interactive business reports |
 | **GitHub** | Complete project documentation and portfolio presentation |
+
+---
+
+# Project Workflow
+
+The EduMax Business Analytics project follows a structured, business-driven workflow designed to transform raw operational data into actionable business insights and executive decision support.
+
+## Phase 1: Business Understanding
+
+- Understand the EduMax business model and operational challenges.
+- Identify stakeholder requirements and business objectives.
+- Define key business problems and success metrics.
+
+**Deliverable:**
+- Business Requirements Document
+
+---
+
+## Phase 2: Data Understanding
+
+- Review all available business datasets.
+- Understand dataset relationships and business entities.
+- Assess data quality, completeness, and consistency.
+
+**Deliverable:**
+- Dataset Assessment Report
+
+---
+
+## Phase 3: Data Preparation
+
+- Clean and preprocess raw datasets.
+- Handle missing values, duplicates, and inconsistencies.
+- Standardize formats and prepare analysis-ready data.
+
+**Deliverable:**
+- Cleaned Datasets
+
+---
+
+## Phase 4: Exploratory Data Analysis (EDA)
+
+- Explore learner behavior and business performance.
+- Identify trends, patterns, and anomalies.
+- Generate hypotheses for further analysis.
+
+**Deliverable:**
+- EDA Report
+
+---
+
+## Phase 5: Business Analytics
+
+Perform business-focused analyses, including:
+
+- Learner Engagement Analysis
+- Learner Journey & Drop-off Analysis
+- Revenue Analysis
+- Course Performance Analysis
+- Assessment Performance Analysis
+- Customer Satisfaction Analysis
+- Learner Segmentation
+- KPI Performance Analysis
+
+**Deliverable:**
+- Business Insights Report
+
+---
+
+## Phase 6: Dashboard Development
+
+Develop interactive Power BI dashboards to:
+
+- Monitor business KPIs.
+- Track learner engagement.
+- Analyze revenue performance.
+- Support executive decision-making.
+
+**Deliverable:**
+- Executive Dashboard
+
+---
+
+## Phase 7: Business Recommendations
+
+- Summarize key findings.
+- Prioritize business recommendations.
+- Highlight opportunities for business improvement.
+- Support strategic decision-making.
+
+**Deliverable:**
+- Final Business Report
+
+---
+
+## Workflow Summary
+
+```text
+Business Understanding
+        │
+        ▼
+Data Understanding
+        │
+        ▼
+Data Preparation
+        │
+        ▼
+Exploratory Data Analysis
+        │
+        ▼
+Business Analytics
+        │
+        ▼
+Dashboard Development
+        │
+        ▼
+Business Recommendations
+        │
+        ▼
+Decision Support
+```
+
+---
+
