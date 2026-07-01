@@ -169,7 +169,7 @@ Translate analytical findings into practical recommendations that help EduMax im
 
 ---
 
-# Business Context
+## Business Context
 
 EduMax is a simulated EdTech organization created to replicate the business environment of a modern online learning platform. The company offers a diverse portfolio of courses to learners across multiple categories and generates large volumes of operational data through its day-to-day business activities.
 
@@ -183,7 +183,7 @@ The project follows a consulting-style analytics approach where every analysis i
 
 ---
 
-# Target Stakeholders
+## Target Stakeholders
 
 This project is designed to support multiple business stakeholders across EduMax. Each stakeholder has different business objectives, operational responsibilities, and decision-making requirements. The analytics performed throughout this project is aligned with their information needs to enable data-driven decision-making.
 
@@ -197,3 +197,64 @@ This project is designed to support multiple business stakeholders across EduMax
 | **Operations Team** | Improve operational efficiency | How efficiently are learners progressing? Where are operational bottlenecks? | Learner journey monitoring, engagement tracking, and operational reporting |
 
 The primary objective of this project is not simply to analyze data, but to provide each stakeholder with actionable insights that support informed decision-making. Every analysis, KPI, dashboard, and recommendation developed throughout this project is aligned with one or more stakeholder business objectives.
+
+---
+
+## Project Scope
+
+This project covers the complete business analytics lifecycle for EduMax, from understanding business requirements to delivering data-driven recommendations for decision-making. The scope is designed to simulate a real-world analytics engagement where business objectives drive every stage of the analysis.
+
+### In Scope
+
+The project includes the following activities:
+
+- Understanding business objectives and stakeholder requirements.
+- Defining business problems and analytical goals.
+- Exploring relationships across multiple business datasets.
+- Data quality assessment and data cleaning.
+- Data preparation for analysis.
+- Exploratory Data Analysis (EDA).
+- SQL-based business analysis and KPI reporting.
+- Python-based statistical analysis and visualization.
+- Learner journey and drop-off analysis.
+- Learner engagement analysis.
+- Revenue and payment performance analysis.
+- Customer segmentation and behavioral analysis.
+- Course performance analysis.
+- Assessment performance analysis.
+- Executive dashboard development using Power BI.
+- Business insight generation and stakeholder-focused recommendations.
+- Documentation of the complete analytics process.
+
+### Out of Scope
+
+The following activities are intentionally excluded from this phase of the project:
+
+- Machine Learning model development.
+- Predictive analytics and forecasting.
+- Recommendation system development.
+- Production database implementation.
+- Real-time data pipelines.
+- Cloud deployment.
+- API development.
+- Application development.
+
+These areas may be considered as future enhancements beyond the scope of this business analytics project.
+
+### Project Assumptions
+
+The analysis is based on the following assumptions:
+
+- The provided datasets accurately represent EduMax business operations.
+- Data quality issues identified during analysis can be resolved through appropriate cleaning and preprocessing.
+- Business decisions are supported using historical operational data.
+- KPIs defined in this project align with stakeholder reporting requirements.
+
+### Project Constraints
+
+The project operates under the following constraints:
+
+- Analysis is performed using historical datasets.
+- Business insights are limited to the available data.
+- Results are intended to support decision-making within the simulated EduMax business environment.
+- Recommendations are based on analytical findings and available business evidence.
