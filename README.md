@@ -80,6 +80,7 @@ This project aims to demonstrate the ability to:
 - [Results Preview](#results-preview)
 - [Business Impact](#business-impact)
 - [Project Roadmap](#project-roadmap)
+- [Latest Update](#latest-update)
 - [Future Improvements](#future-improvements)
 - [License](#license)
 - [Contact](#contact)
@@ -992,7 +993,42 @@ The project is now focused on understanding the post-enrollment learner journey,
 > **Repository Status:** Actively Maintained
 
 New analyses, dashboards, reports, and business insights will be added as project milestones are completed.
+
 ---
+
+# Latest Update
+
+## Current Project Phase
+
+🔄 **Learner Journey & Drop-off Analysis**
+
+The project has completed the initial revenue analysis phase and is currently focused on understanding learner behavior after enrollment.
+
+## Recently Completed
+
+✅ Business Understanding & Project Foundation  
+✅ Data Preparation  
+✅ Revenue Performance Analysis  
+✅ Revenue Funnel Analysis  
+✅ Revenue Concentration Analysis  
+✅ Revenue Driver Analysis  
+✅ Revenue Performance Dashboard  
+
+## Current Focus
+
+The current analysis phase focuses on:
+
+- Understanding where learners disengage after enrollment.
+- Identifying drop-off points in the learner journey.
+- Analyzing engagement patterns across users and courses.
+- Supporting future recommendations to improve learner retention.
+
+## Project Status
+
+🚧 EduMax is actively being developed with new analyses, dashboards, reports, and documentation added as each business problem is completed and validated.
+
+---
+
 
 ### Future Improvements
 
