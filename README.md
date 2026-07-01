@@ -292,7 +292,7 @@ The EduMax project consists of multiple business datasets representing different
 | Dataset | Primary Key | Business Entity | Description |
 |----------|-------------|-----------------|-------------|
 | **users.csv** | user_id | Learner | Stores learner demographic and registration information used for segmentation and user-level analysis. |
-| **courses.csv** | course_id | Course | Contains course information, pricing, categories, and instructor details. |
+| **courses.csv** | course_id | Course | Contains course information, pricing, categories. |
 | **enrollments.csv** | enrollment_id | Enrollment | Records learner enrollments and connects users with courses. |
 | **sessions.csv** | session_id | Learning Session | Captures learner activity and engagement throughout the learning journey. |
 | **assessments.csv** | assessment_id | Assessment | Stores learner assessment attempts, scores, and performance metrics. |
@@ -378,3 +378,58 @@ Stakeholder Decision Support
 | Dashboard Development | Visualize business performance for stakeholders | Power BI |
 | Business Recommendations | Convert insights into actionable recommendations | Business Analysis |
 | Decision Support | Enable data-driven strategic decisions | Executive Dashboard |
+
+---
+
+## Business Questions
+
+The project is driven by business questions raised by EduMax stakeholders. Each analysis performed throughout the project is designed to answer one or more of these questions and support data-driven decision-making.
+
+### Learner Engagement
+
+- How actively are learners engaging with their enrolled courses?
+- Which learner segments demonstrate the highest and lowest engagement?
+- Which courses experience the highest learner participation?
+
+### Learner Journey & Drop-off
+
+- At which stage of the learner journey do learners disengage?
+- Which courses have the highest learner drop-off rates?
+- What factors contribute to learner retention and course completion?
+
+### Revenue Performance
+
+- How has revenue changed over time?
+- Which courses generate the highest revenue?
+- What is the relationship between enrollments and revenue?
+- Which payment methods are most frequently used?
+
+### Course Performance
+
+- Which courses are the most popular?
+- Which categories attract the highest number of enrollments?
+- Which courses have the highest completion rates?
+
+### Assessment Performance
+
+- How do learners perform across different assessments?
+- Which courses have the highest assessment success rates?
+- Is there a relationship between learner engagement and assessment performance?
+
+### Customer Satisfaction
+
+- How satisfied are learners with their courses?
+- Which courses receive the highest ratings?
+- What common themes emerge from learner feedback?
+
+### Learner Segmentation
+
+- Can learners be segmented based on their engagement behavior?
+- Which learner segments contribute most to business value?
+- How do demographics influence learner behavior?
+
+### Executive Reporting
+
+- Which KPIs should leadership monitor regularly?
+- Which business areas require immediate attention?
+- What strategic recommendations can improve overall business performance?
