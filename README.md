@@ -520,7 +520,7 @@ Decision Support
 ```
 ---
 
-# Tech Stack
+## Tech Stack
 
 The EduMax Business Analytics project utilizes industry-standard analytics technologies to transform raw operational data into business insights and executive decision support.
 
@@ -531,7 +531,7 @@ The EduMax Business Analytics project utilizes industry-standard analytics techn
 | **Power BI** | Dashboard development and business intelligence | Develop interactive dashboards for KPI monitoring, executive reporting, and decision support. |
 | **Git & GitHub** | Version control and project documentation | Maintain project history, organize deliverables, and present a professional analytics portfolio. |
 
-## Python Libraries
+### Python Libraries
 
 | Library | Purpose |
 |---------|---------|
@@ -540,7 +540,7 @@ The EduMax Business Analytics project utilizes industry-standard analytics techn
 | **Matplotlib** | Business data visualization |
 | **Seaborn** | Statistical data visualization and exploratory analysis |
 
-## Project Deliverables by Technology
+### Project Deliverables by Technology
 
 | Technology | Key Deliverables |
 |------------|------------------|
@@ -551,11 +551,11 @@ The EduMax Business Analytics project utilizes industry-standard analytics techn
 
 ---
 
-# Project Workflow
+## Project Workflow
 
 The EduMax Business Analytics project follows a structured, business-driven workflow designed to transform raw operational data into actionable business insights and executive decision support.
 
-## Phase 1: Business Understanding
+### Phase 1: Business Understanding
 
 - Understand the EduMax business model and operational challenges.
 - Identify stakeholder requirements and business objectives.
@@ -566,7 +566,7 @@ The EduMax Business Analytics project follows a structured, business-driven work
 
 ---
 
-## Phase 2: Data Understanding
+### Phase 2: Data Understanding
 
 - Review all available business datasets.
 - Understand dataset relationships and business entities.
@@ -577,7 +577,7 @@ The EduMax Business Analytics project follows a structured, business-driven work
 
 ---
 
-## Phase 3: Data Preparation
+### Phase 3: Data Preparation
 
 - Clean and preprocess raw datasets.
 - Handle missing values, duplicates, and inconsistencies.
@@ -588,7 +588,97 @@ The EduMax Business Analytics project follows a structured, business-driven work
 
 ---
 
-## Phase 4: Exploratory Data Analysis (EDA)
+## Repository Structure
+
+The repository is organized to reflect a professional end-to-end Business Analytics project. Each directory represents a specific phase of the analytics lifecycle, ensuring that project assets remain organized, maintainable, and easy to navigate.
+
+```text
+EduMax-End-to-End-Business-Analytics/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── data/
+│   ├── raw/
+│   ├── cleaned/
+│   └── sample/
+│
+├── sql/
+│
+├── python/
+│
+├── dashboards/
+│
+├── reports/
+│
+├── documentation/
+│
+├── presentations/
+│
+├── images/
+│
+└── references/
+```
+
+### Directory Overview
+
+| Directory | Purpose |
+|-----------|---------|
+| **data/raw/** | Stores the original datasets used for the project without any modifications. |
+| **data/cleaned/** | Contains cleaned and transformed datasets prepared for analysis. |
+| **data/sample/** | Includes sample datasets that can be shared publicly without exposing the complete dataset. |
+| **sql/** | Stores SQL scripts used for data extraction, KPI calculations, business analysis, and reporting. |
+| **python/** | Contains Python notebooks and scripts for data cleaning, exploratory data analysis, visualization, and feature engineering. |
+| **dashboards/** | Stores Power BI dashboard files, exported reports, and dashboard screenshots. |
+| **reports/** | Contains business reports, analytical findings, executive summaries, and recommendation documents. |
+| **documentation/** | Stores project documentation, methodology, KPI definitions, data dictionaries, and supporting technical documents. |
+| **presentations/** | Includes stakeholder presentations and executive summary slide decks. |
+| **images/** | Stores repository banners, workflow diagrams, dashboard previews, and other project visuals. |
+| **references/** | Contains external references, research materials, business resources, and supporting documentation used throughout the project. |
+
+### Repository Organization Principles
+
+The repository is structured to:
+
+- Separate raw and processed data.
+- Organize SQL, Python, and dashboard assets independently.
+- Maintain comprehensive project documentation.
+- Support reproducibility and maintainability.
+- Present the project in a professional, recruiter-friendly format.
+
+---
+
+## Key Deliverables
+
+The EduMax Business Analytics project produces a comprehensive set of deliverables that demonstrate the complete analytics lifecycle, from business understanding to executive decision support.
+
+| Deliverable | Description |
+|-------------|-------------|
+| **Business Requirements Documentation** | Defines the business problem, objectives, stakeholders, project scope, and analytical requirements. |
+| **Raw & Cleaned Datasets** | Original datasets along with cleaned and analysis-ready versions used throughout the project. |
+| **SQL Analysis** | SQL scripts for data exploration, KPI calculation, learner journey analysis, revenue analysis, and business reporting. |
+| **Python Analysis** | Jupyter notebooks and Python scripts for data cleaning, exploratory data analysis (EDA), statistical analysis, feature engineering, and visualization. |
+| **Business Insights Reports** | Analytical findings and business insights generated from SQL and Python analyses. |
+| **Power BI Dashboards** | Interactive dashboards designed for KPI monitoring, business performance tracking, and executive decision support. |
+| **Business Recommendations** | Actionable recommendations based on analytical findings to support strategic business decisions. |
+| **Project Documentation** | Supporting documentation, methodology, KPI definitions, data dictionaries, and technical references. |
+| **Executive Presentation** | A presentation summarizing the business problem, analytical approach, key findings, and strategic recommendations for stakeholders. |
+
+### Project Outputs
+
+Upon completion, the repository will include:
+
+- Business-oriented project documentation
+- Well-organized SQL scripts
+- Python notebooks for end-to-end analysis
+- Interactive Power BI dashboards
+- Executive-ready reports
+- Business recommendations supported by data
+- Professional project presentation
+- Complete repository documentation
+
+### Phase 4: Exploratory Data Analysis (EDA)
 
 - Explore learner behavior and business performance.
 - Identify trends, patterns, and anomalies.
@@ -599,7 +689,7 @@ The EduMax Business Analytics project follows a structured, business-driven work
 
 ---
 
-## Phase 5: Business Analytics
+### Phase 5: Business Analytics
 
 Perform business-focused analyses, including:
 
@@ -617,7 +707,7 @@ Perform business-focused analyses, including:
 
 ---
 
-## Phase 6: Dashboard Development
+### Phase 6: Dashboard Development
 
 Develop interactive Power BI dashboards to:
 
@@ -631,7 +721,7 @@ Develop interactive Power BI dashboards to:
 
 ---
 
-## Phase 7: Business Recommendations
+### Phase 7: Business Recommendations
 
 - Summarize key findings.
 - Prioritize business recommendations.
@@ -643,7 +733,7 @@ Develop interactive Power BI dashboards to:
 
 ---
 
-## Workflow Summary
+### Workflow Summary
 
 ```text
 Business Understanding
@@ -672,3 +762,36 @@ Decision Support
 
 ---
 
+## Results Preview
+
+> **Project Status:** 🚧 In Progress
+
+The EduMax Business Analytics project is currently under active development. As each phase of the project is completed, this section will be updated with key analytical findings, dashboard previews, and business insights.
+
+The following deliverables will be showcased upon completion:
+
+### Planned Results
+
+- Executive KPI Dashboard
+- Learner Engagement Dashboard
+- Revenue Performance Dashboard
+- Learner Journey & Drop-off Analysis
+- Course Performance Analysis
+- Assessment Performance Analysis
+- Customer Segmentation Analysis
+- Business Insight Reports
+- Strategic Business Recommendations
+
+### Preview Components
+
+This section will include:
+
+- Dashboard screenshots
+- KPI summaries
+- Business insight highlights
+- SQL analysis outputs
+- Python visualizations
+- Executive reporting snapshots
+- Key recommendations for stakeholders
+
+> **Note:** All results presented in this repository will be derived from completed analyses performed during the project. No findings or recommendations will be published until they have been fully validated.
