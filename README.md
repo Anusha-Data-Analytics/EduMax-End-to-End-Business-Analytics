@@ -433,3 +433,88 @@ The project is driven by business questions raised by EduMax stakeholders. Each 
 - Which KPIs should leadership monitor regularly?
 - Which business areas require immediate attention?
 - What strategic recommendations can improve overall business performance?
+
+---
+
+## Methodology
+
+The EduMax Business Analytics project follows a structured, business-first analytics methodology designed to transform raw operational data into actionable business insights. Each phase of the project builds upon the previous stage, ensuring that every analysis directly supports stakeholder objectives and organizational decision-making.
+
+### Phase 1: Business Understanding
+
+- Understand the EduMax business model and operational processes.
+- Identify stakeholder requirements and business objectives.
+- Define the key business problems to be addressed.
+- Establish measurable business KPIs.
+
+### Phase 2: Data Understanding
+
+- Review the available datasets.
+- Understand relationships between business entities.
+- Evaluate data quality and completeness.
+- Identify potential analytical opportunities and limitations.
+
+### Phase 3: Data Preparation
+
+- Clean and preprocess raw datasets.
+- Handle missing values, duplicates, and inconsistencies.
+- Standardize data formats.
+- Prepare analysis-ready datasets for SQL and Python workflows.
+
+### Phase 4: Exploratory Data Analysis (EDA)
+
+- Explore learner behavior and business trends.
+- Analyze distributions, correlations, and patterns.
+- Identify anomalies and potential business issues.
+- Generate hypotheses for deeper business analysis.
+
+### Phase 5: Business Analytics
+
+Perform detailed business analysis across multiple domains, including:
+
+- Learner Engagement Analysis
+- Learner Journey & Drop-off Analysis
+- Revenue Analysis
+- Course Performance Analysis
+- Assessment Performance Analysis
+- Customer Satisfaction Analysis
+- Learner Segmentation
+- KPI Performance Analysis
+
+### Phase 6: Dashboard Development
+
+Develop interactive Power BI dashboards to:
+
+- Monitor business performance.
+- Track key business KPIs.
+- Visualize learner behavior.
+- Support executive decision-making.
+
+### Phase 7: Business Recommendations
+
+Translate analytical findings into actionable recommendations by:
+
+- Identifying improvement opportunities.
+- Prioritizing business actions.
+- Evaluating potential business impact.
+- Supporting data-driven strategic decisions.
+
+### Methodology Overview
+
+```text
+Business Understanding
+        ↓
+Data Understanding
+        ↓
+Data Preparation
+        ↓
+Exploratory Data Analysis
+        ↓
+Business Analytics
+        ↓
+Dashboard Development
+        ↓
+Business Recommendations
+        ↓
+Decision Support
+```
