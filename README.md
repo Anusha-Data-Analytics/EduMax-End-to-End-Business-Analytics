@@ -768,7 +768,7 @@ Key observations include:
 
 ---
 
-#### Revenue Time-Series Dashboard
+#### Revenue Performance Dashboard
 
 Revenue trends were analyzed over time to support executive monitoring of business performance.
 
@@ -779,6 +779,11 @@ The dashboard enables stakeholders to:
 - Identify seasonal revenue fluctuations.
 - Track long-term business growth.
 
+The Revenue Performance Dashboard developed during the completed revenue analysis provides stakeholders with an interactive view of revenue performance and supports executive decision-making.
+
+<p align="center">
+  <img src="Images/revenue_performance_dashboard.png" alt="EduMax Revenue Performance Dashboard" width="900">
+</p>
 ---
 
 ### Business Conclusion
@@ -807,15 +812,15 @@ These analyses aim to identify where learners disengage during their learning jo
 
 ---
 
-# Business Impact
+## Business Impact
 
 The completed analyses within the EduMax Business Analytics project have provided evidence-based insights that support stakeholder decision-making regarding revenue performance and business growth.
 
 Rather than focusing solely on descriptive reporting, the project emphasizes answering stakeholder business questions through structured analytics and translating findings into actionable business conclusions.
 
-## Business Value Delivered
+### Business Value Delivered
 
-### Revenue Performance Visibility
+#### Revenue Performance Visibility
 
 The project established a structured framework for monitoring revenue performance through KPI analysis, trend analysis, and executive dashboard reporting.
 
@@ -827,7 +832,7 @@ This enables stakeholders to:
 
 ---
 
-### Revenue Risk Assessment
+#### Revenue Risk Assessment
 
 Revenue Concentration Analysis evaluated whether EduMax was overly dependent on a small number of courses for business growth.
 
@@ -837,7 +842,7 @@ This provides stakeholders with greater confidence in the sustainability of the 
 
 ---
 
-### Revenue Driver Understanding
+#### Revenue Driver Understanding
 
 Revenue Driver Analysis improved stakeholder understanding of the factors contributing to revenue generation.
 
@@ -847,7 +852,7 @@ This insight supports future decisions related to course portfolio management an
 
 ---
 
-### Executive Decision Support
+#### Executive Decision Support
 
 Revenue dashboards were developed to provide leadership with a centralized view of business performance.
 
@@ -860,7 +865,7 @@ These dashboards enable stakeholders to:
 
 ---
 
-## Stakeholder Outcome
+#### Stakeholder Outcome
 
 The initial stakeholder concern regarding revenue performance was successfully investigated through multiple analytical approaches.
 
@@ -931,15 +936,15 @@ The EduMax Business Analytics project is being developed through a structured, s
 
 ---
 
-# Latest Update
+## Latest Update
 
-## Current Project Phase
+### Current Project Phase
 
 🔄 **Learner Journey & Drop-off Analysis**
 
 The project has completed the initial revenue analysis phase and is currently focused on understanding learner behavior after enrollment.
 
-## Recently Completed
+### Recently Completed
 
 ✅ Business Understanding & Project Foundation  
 ✅ Data Preparation  
@@ -949,7 +954,7 @@ The project has completed the initial revenue analysis phase and is currently fo
 ✅ Revenue Driver Analysis  
 ✅ Revenue Performance Dashboard  
 
-## Current Focus
+### Current Focus
 
 The current analysis phase focuses on:
 
@@ -958,7 +963,7 @@ The current analysis phase focuses on:
 - Analyzing engagement patterns across users and courses.
 - Supporting future recommendations to improve learner retention.
 
-## Project Status
+### Project Status
 
 > **Repository Status:** Actively Maintained
 
@@ -966,36 +971,35 @@ The current analysis phase focuses on:
 
 ---
 
-
-### Future Improvements
+## Future Improvements
 
 While the current scope of the EduMax Business Analytics project focuses on descriptive and diagnostic analytics, several enhancements can further extend its business value and analytical capabilities.
 
-#### Advanced Analytics
+### Advanced Analytics
 
 - Develop predictive models for learner dropout prediction.
 - Forecast enrollments and revenue using time series analysis.
 - Identify factors influencing learner success through machine learning.
 
-#### Business Intelligence Enhancements
+### Business Intelligence Enhancements
 
 - Build real-time dashboards using live data sources.
 - Implement automated KPI monitoring and reporting.
 - Develop executive scorecards with drill-through capabilities.
 
-#### Data Engineering
+### Data Engineering
 
 - Design automated ETL pipelines for data ingestion and transformation.
 - Integrate data from multiple business systems.
 - Improve data quality monitoring and validation processes.
 
-#### Cloud & Deployment
+### Cloud & Deployment
 
 - Deploy dashboards using cloud-based Business Intelligence platforms.
 - Host project documentation and reports through an analytics portfolio website.
 - Explore cloud-based data storage and analytics solutions.
 
-#### Advanced Business Analytics
+### Advanced Business Analytics
 
 - Cohort Analysis
 - Customer Lifetime Value (CLV) Analysis
@@ -1004,7 +1008,7 @@ While the current scope of the EduMax Business Analytics project focuses on desc
 - A/B Testing Framework
 - Marketing Campaign Performance Analysis
 
-#### Repository Improvements
+### Repository Improvements
 
 - Expand project documentation.
 - Add interactive dashboard demonstrations.
