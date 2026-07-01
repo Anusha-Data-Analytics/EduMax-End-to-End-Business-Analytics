@@ -891,47 +891,47 @@ The EduMax Business Analytics project continues to expand its business impact as
 > **Note:** All findings presented above are based on completed analyses within this project. Additional business insights, dashboards, and recommendations will be added as future project milestones are completed.
 ---
 
-# Business Impact
+## Business Impact
 
 The primary objective of the EduMax Business Analytics project is to demonstrate how data-driven analytics can support business decision-making across an EdTech organization.
 
 By integrating SQL, Python, and Power BI into a structured analytics workflow, the project aims to provide stakeholders with meaningful insights into learner behavior, operational performance, and business growth opportunities.
 
-## Expected Business Value
+### Expected Business Value
 
 Upon completion, the project is expected to deliver value in the following business areas:
 
-### Learner Engagement
+#### Learner Engagement
 
 - Improve visibility into learner engagement across courses.
 - Identify engagement patterns and behavioral trends.
 - Support initiatives to increase learner participation and retention.
 
-### Learner Journey Optimization
+#### Learner Journey Optimization
 
 - Identify stages where learners disengage during their learning journey.
 - Quantify learner drop-off across different courses and learner segments.
 - Support strategies to improve course completion rates.
 
-### Revenue Performance
+#### Revenue Performance
 
 - Monitor revenue trends and payment behavior.
 - Identify key revenue drivers across courses and learner segments.
 - Support revenue-focused business planning and decision-making.
 
-### Course Performance
+#### Course Performance
 
 - Evaluate course popularity and learner outcomes.
 - Compare performance across course categories.
 - Support continuous improvement of the course portfolio.
 
-### Business Intelligence
+#### Business Intelligence
 
 - Establish standardized KPIs for monitoring organizational performance.
 - Provide interactive dashboards for business users and leadership.
 - Improve visibility into operational and strategic business metrics.
 
-### Executive Decision Support
+#### Executive Decision Support
 
 The insights generated throughout this project are intended to support stakeholders in making informed decisions related to:
 
@@ -947,57 +947,70 @@ The insights generated throughout this project are intended to support stakehold
 
 ## Project Roadmap
 
-The EduMax Business Analytics project is being developed in a structured, milestone-based approach. Each milestone represents a major phase of the analytics lifecycle and contributes to the overall objective of building a comprehensive Business Analytics portfolio project.
+The EduMax Business Analytics project is being developed through a structured, stakeholder-driven analytics approach. Each completed milestone addresses a specific business concern and contributes toward building a comprehensive Business Analytics solution for the EduMax platform.
 
-| Status | Milestone | Description |
-|--------|-----------|-------------|
-| ✅ Completed | Business Understanding | Defined the business problem, objectives, stakeholders, project scope, and analytical goals. |
-| ✅ Completed | Repository Foundation | Established repository architecture, documentation standards, and project structure. |
-| 🔄 In Progress | Data Preparation | Cleaning, validating, and preparing datasets for business analysis. |
-| ⏳ Planned | Exploratory Data Analysis (EDA) | Analyze learner behavior, revenue trends, and operational performance. |
-| ⏳ Planned | SQL Business Analysis | Develop SQL queries to answer stakeholder business questions and calculate KPIs. |
-| ⏳ Planned | Python Analytics | Perform advanced analysis, visualization, and feature engineering. |
-| ⏳ Planned | KPI Development | Define, calculate, and validate key business performance indicators. |
-| ⏳ Planned | Power BI Dashboard Development | Build executive dashboards for business monitoring and decision support. |
-| ⏳ Planned | Business Recommendations | Translate analytical findings into actionable recommendations for stakeholders. |
-| ⏳ Planned | Executive Presentation | Prepare a consulting-style presentation summarizing the project, insights, and recommendations. |
-| ⏳ Planned | Repository Finalization | Complete documentation, update project deliverables, and publish the final portfolio repository. |
+| Status | Milestone | Outcome |
+|---------|-----------|---------|
+| ✅ Completed | Business Understanding | Defined the business problem, stakeholder objectives, project scope, and analytical goals. |
+| ✅ Completed | Repository Foundation | Established repository architecture, documentation standards, and project organization. |
+| ✅ Completed | Data Preparation | Prepared and validated datasets for business analysis. |
+| ✅ Completed | Revenue Analysis | Evaluated overall revenue performance and business KPIs. |
+| ✅ Completed | Revenue Funnel Analysis | Analyzed the conversion journey from user registration to enrollment and identified no revenue leakage after payment. |
+| ✅ Completed | Revenue Concentration Analysis | Assessed revenue distribution across courses and confirmed a diversified revenue portfolio. |
+| ✅ Completed | Revenue Driver Analysis | Investigated the factors influencing revenue generation and resolved stakeholder concerns regarding revenue growth. |
+| ✅ Completed | Revenue Time-Series Dashboard | Developed executive dashboards to monitor revenue trends and support business decision-making. |
+| 🔄 In Progress | Learner Journey & Drop-off Analysis | Investigating learner behavior after enrollment to identify disengagement points and opportunities to improve retention. |
+| ⏳ Planned | Learner Engagement Analysis | Analyze learner participation patterns across courses and learner segments. |
+| ⏳ Planned | Course Performance Analysis | Evaluate course effectiveness, popularity, and completion performance. |
+| ⏳ Planned | Assessment Performance Analysis | Measure learner assessment outcomes and identify performance trends. |
+| ⏳ Planned | Customer Satisfaction Analysis | Analyze learner feedback to identify strengths and improvement opportunities. |
+| ⏳ Planned | Learner Segmentation | Segment learners based on engagement behavior, demographics, and learning patterns. |
+| ⏳ Planned | Executive Dashboard Suite | Develop a comprehensive Power BI dashboard covering all major business KPIs. |
+| ⏳ Planned | Business Recommendations | Translate analytical findings into strategic recommendations for stakeholders. |
+| ⏳ Planned | Executive Presentation | Prepare a consulting-style presentation summarizing the project, findings, and recommendations. |
 
-### Repository Maintenance
+### Current Project Status
 
-This repository will continue to evolve as new analyses, dashboards, reports, and business insights are completed. Each major milestone will be documented through regular commits and repository updates to maintain transparency and demonstrate the progression of the project.
+**Current Business Priority**
 
+The revenue analysis phase has been successfully completed, resolving the initial stakeholder concern regarding revenue performance.
+
+The project is now focused on understanding the post-enrollment learner journey, with particular emphasis on learner engagement, drop-off behavior, and retention opportunities. These analyses will guide future recommendations aimed at improving learner success and overall platform performance.
+
+> **Repository Status:** Actively Maintained
+
+New analyses, dashboards, reports, and business insights will be added as project milestones are completed.
 ---
 
-## Future Improvements
+### Future Improvements
 
 While the current scope of the EduMax Business Analytics project focuses on descriptive and diagnostic analytics, several enhancements can further extend its business value and analytical capabilities.
 
-### Advanced Analytics
+#### Advanced Analytics
 
 - Develop predictive models for learner dropout prediction.
 - Forecast enrollments and revenue using time series analysis.
 - Identify factors influencing learner success through machine learning.
 
-### Business Intelligence Enhancements
+#### Business Intelligence Enhancements
 
 - Build real-time dashboards using live data sources.
 - Implement automated KPI monitoring and reporting.
 - Develop executive scorecards with drill-through capabilities.
 
-### Data Engineering
+#### Data Engineering
 
 - Design automated ETL pipelines for data ingestion and transformation.
 - Integrate data from multiple business systems.
 - Improve data quality monitoring and validation processes.
 
-### Cloud & Deployment
+#### Cloud & Deployment
 
 - Deploy dashboards using cloud-based Business Intelligence platforms.
 - Host project documentation and reports through an analytics portfolio website.
 - Explore cloud-based data storage and analytics solutions.
 
-### Advanced Business Analytics
+#### Advanced Business Analytics
 
 - Cohort Analysis
 - Customer Lifetime Value (CLV) Analysis
@@ -1006,7 +1019,7 @@ While the current scope of the EduMax Business Analytics project focuses on desc
 - A/B Testing Framework
 - Marketing Campaign Performance Analysis
 
-### Repository Improvements
+#### Repository Improvements
 
 - Expand project documentation.
 - Add interactive dashboard demonstrations.
