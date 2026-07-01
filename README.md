@@ -258,3 +258,27 @@ The project operates under the following constraints:
 - Business insights are limited to the available data.
 - Results are intended to support decision-making within the simulated EduMax business environment.
 - Recommendations are based on analytical findings and available business evidence.
+
+  ---
+
+  # Dataset Overview
+
+The EduMax Business Analytics project is built using multiple interconnected datasets that represent the core operational functions of an online learning platform. Together, these datasets capture the complete learner lifecycle—from user registration and course enrollment to learning activity, assessments, feedback, and payments.
+
+The data model enables comprehensive business analysis across learner engagement, revenue performance, customer behavior, course effectiveness, and operational KPIs.
+
+| Dataset | Business Process | Business Purpose |
+|----------|------------------|------------------|
+| **users.csv** | User Management | Stores learner demographic information used for customer segmentation and user-level analysis. |
+| **courses.csv** | Course Catalog | Contains course details, pricing, categories, and instructor information used to evaluate course performance and revenue contribution. |
+| **enrollments.csv** | Enrollment Management | Records learner enrollments and forms the starting point of the learner journey analysis. |
+| **sessions.csv** | Learning Activity | Captures learner session activity, enabling engagement analysis, learning behavior analysis, and drop-off identification. |
+| **assessments.csv** | Learning Assessment | Stores assessment attempts and scores used to measure learner performance and course effectiveness. |
+| **feedback.csv** | Customer Feedback | Contains learner ratings and feedback used to evaluate learner satisfaction and identify improvement opportunities. |
+| **payments.csv** | Financial Transactions | Records payment information used for revenue analysis, payment behavior analysis, and financial KPI reporting. |
+
+## Dataset Relationships
+
+These datasets are connected through common business entities such as users, courses, enrollments, and payments, allowing analysis across the complete learner lifecycle.
+
+The integrated data model supports cross-functional business analysis by connecting operational activities with strategic business outcomes, enabling stakeholders to understand how learner behavior influences engagement, course performance, and revenue generation.
