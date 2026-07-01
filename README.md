@@ -653,149 +653,242 @@ The repository is structured to:
 
 The EduMax Business Analytics project produces a comprehensive set of deliverables that demonstrate the complete analytics lifecycle, from business understanding to executive decision support.
 
-| Deliverable | Description |
-|-------------|-------------|
-| **Business Requirements Documentation** | Defines the business problem, objectives, stakeholders, project scope, and analytical requirements. |
-| **Raw & Cleaned Datasets** | Original datasets along with cleaned and analysis-ready versions used throughout the project. |
-| **SQL Analysis** | SQL scripts for data exploration, KPI calculation, learner journey analysis, revenue analysis, and business reporting. |
-| **Python Analysis** | Jupyter notebooks and Python scripts for data cleaning, exploratory data analysis (EDA), statistical analysis, feature engineering, and visualization. |
-| **Business Insights Reports** | Analytical findings and business insights generated from SQL and Python analyses. |
-| **Power BI Dashboards** | Interactive dashboards designed for KPI monitoring, business performance tracking, and executive decision support. |
-| **Business Recommendations** | Actionable recommendations based on analytical findings to support strategic business decisions. |
-| **Project Documentation** | Supporting documentation, methodology, KPI definitions, data dictionaries, and technical references. |
-| **Executive Presentation** | A presentation summarizing the business problem, analytical approach, key findings, and strategic recommendations for stakeholders. |
+| Deliverable | Status | Description |
+|-------------|--------|-------------|
+| Business Requirements Documentation | ✅ Completed | Business problem, objectives, stakeholders, project scope, and analytical requirements. |
+| Repository Architecture | ✅ Completed | Professional repository structure following industry best practices. |
+| Raw & Cleaned Datasets | ✅ Completed | Original and cleaned datasets prepared for business analysis. |
+| Revenue Analysis | ✅ Completed | Comprehensive revenue analysis with business insights and KPI evaluation. |
+| Revenue Concentration Analysis | ✅ Completed | Revenue contribution analysis across courses and business segments. |
+| Revenue Driver Analysis | ✅ Completed | Identification of key business drivers influencing revenue performance. |
+| Revenue Time-Series Analysis | ✅ Completed | Revenue trend analysis over time with executive insights. |
+| SQL Analysis | 🔄 In Progress | SQL scripts supporting business analysis and KPI calculations. |
+| Python Analysis | 🔄 In Progress | Data preparation, EDA, and business analysis notebooks. |
+| Power BI Dashboards | 🔄 In Progress | Interactive dashboards supporting executive decision-making. |
+| Learner Journey & Drop-off Analysis | 🔄 In Progress | Analysis of learner progression and disengagement across the learning journey. |
+| Business Recommendations | ⏳ Planned | Strategic recommendations based on completed analytical findings. |
+| Executive Presentation | ⏳ Planned | Stakeholder presentation summarizing business findings and recommendations. |
+| Project Documentation | 🔄 In Progress | Supporting documentation, methodology, KPI definitions, and technical references. |
 
-### Project Outputs
+### Current Project Progress
 
-Upon completion, the repository will include:
+#### Completed
 
-- Business-oriented project documentation
-- Well-organized SQL scripts
-- Python notebooks for end-to-end analysis
-- Interactive Power BI dashboards
-- Executive-ready reports
-- Business recommendations supported by data
-- Professional project presentation
-- Complete repository documentation
-
-### Phase 4: Exploratory Data Analysis (EDA)
-
-- Explore learner behavior and business performance.
-- Identify trends, patterns, and anomalies.
-- Generate hypotheses for further analysis.
-
-**Deliverable:**
-- EDA Report
-
----
-
-### Phase 5: Business Analytics
-
-Perform business-focused analyses, including:
-
-- Learner Engagement Analysis
-- Learner Journey & Drop-off Analysis
+- Business Understanding
+- Repository Foundation
+- Data Preparation
 - Revenue Analysis
-- Course Performance Analysis
+- Revenue Concentration Analysis
+- Revenue Driver Analysis
+- Revenue Time-Series Analysis
+
+#### Currently In Progress
+
+- Learner Journey & Drop-off Analysis
+- SQL Documentation
+- Python Analytics
+- Dashboard Development
+
+#### Planned
+
 - Assessment Performance Analysis
 - Customer Satisfaction Analysis
 - Learner Segmentation
-- KPI Performance Analysis
-
-**Deliverable:**
-- Business Insights Report
-
----
-
-### Phase 6: Dashboard Development
-
-Develop interactive Power BI dashboards to:
-
-- Monitor business KPIs.
-- Track learner engagement.
-- Analyze revenue performance.
-- Support executive decision-making.
-
-**Deliverable:**
-- Executive Dashboard
-
----
-
-### Phase 7: Business Recommendations
-
-- Summarize key findings.
-- Prioritize business recommendations.
-- Highlight opportunities for business improvement.
-- Support strategic decision-making.
-
-**Deliverable:**
-- Final Business Report
-
----
-
-### Workflow Summary
-
-```text
-Business Understanding
-        │
-        ▼
-Data Understanding
-        │
-        ▼
-Data Preparation
-        │
-        ▼
-Exploratory Data Analysis
-        │
-        ▼
-Business Analytics
-        │
-        ▼
-Dashboard Development
-        │
-        ▼
-Business Recommendations
-        │
-        ▼
-Decision Support
-```
+- Executive Reporting
+- Final Business Recommendations
 
 ---
 
 ## Results Preview
 
-> **Project Status:** 🚧 In Progress
+The EduMax Business Analytics project has completed its first phase of business analysis, focusing on revenue performance and validating key stakeholder concerns. All findings presented below are based on completed analyses documented within this repository.
 
-The EduMax Business Analytics project is currently under active development. As each phase of the project is completed, this section will be updated with key analytical findings, dashboard previews, and business insights.
+---
 
-The following deliverables will be showcased upon completion:
+## Business Concern 1: Revenue Performance
 
-### Planned Results
+### Stakeholder Concern
 
-- Executive KPI Dashboard
-- Learner Engagement Dashboard
-- Revenue Performance Dashboard
+EduMax leadership wanted to understand whether revenue growth was keeping pace with learner enrollments and whether revenue was overly dependent on a small number of courses or categories.
+
+To investigate this concern, multiple business analyses were performed.
+
+### Analyses Completed
+
+- Revenue Analysis
+- Revenue Funnel Analysis
+- Revenue Concentration Analysis
+- Revenue Driver Analysis
+- Revenue Time-Series Dashboard
+
+---
+
+### Key Findings
+
+#### Revenue Funnel Analysis
+
+- 21.92% of registered users did not enroll in any course.
+- 78.08% of registered users successfully enrolled.
+- No revenue leakage was identified between payment and enrollment.
+- Payment-to-enrollment conversion was effectively 100%.
+
+---
+
+#### Revenue Concentration Analysis
+
+- The top five courses contribute **36.72%** of total revenue.
+- The remaining **63.28%** of revenue is distributed across the rest of the course portfolio.
+- **Data Science** courses contribute **34.16%** of total revenue.
+- Revenue is reasonably diversified and is not overly dependent on a small number of courses.
+
+---
+
+#### Revenue Driver Analysis
+
+Revenue generation is influenced by multiple business factors rather than a single driver.
+
+Key observations include:
+
+- Data Science generates strong revenue through high learner demand.
+- Marketing contributes significantly through higher-priced offerings.
+- Revenue is supported by a balanced combination of enrollment volume and course pricing.
+
+---
+
+#### Revenue Time-Series Dashboard
+
+Revenue trends were analyzed over time to support executive monitoring of business performance.
+
+The dashboard enables stakeholders to:
+
+- Monitor monthly revenue performance.
+- Compare revenue against learner enrollments.
+- Identify seasonal revenue fluctuations.
+- Track long-term business growth.
+
+---
+
+### Business Conclusion
+
+The completed analyses indicate that the original stakeholder concern was not supported by the available data.
+
+Revenue generally grows alongside learner enrollments, while periodic revenue fluctuations are primarily influenced by premium-course enrollments rather than an underlying business issue.
+
+As a result, the initial revenue concern has been considered **resolved**.
+
+---
+
+### Current Stakeholder Priority
+
+Following the completion of revenue analysis, the primary business focus has shifted to understanding learner behavior after enrollment.
+
+The next phase of the project investigates:
+
+- Learner Engagement
+- Learner Journey
+- Learner Drop-off Analysis
+- Course Completion Behavior
+- Assessment Performance
+
+These analyses aim to identify where learners disengage during their learning journey and provide recommendations to improve learner retention and overall platform performance.
+
+---
+
+# Business Impact
+
+The completed analyses within the EduMax Business Analytics project have provided evidence-based insights that support stakeholder decision-making regarding revenue performance and business growth.
+
+Rather than focusing solely on descriptive reporting, the project emphasizes answering stakeholder business questions through structured analytics and translating findings into actionable business conclusions.
+
+## Business Value Delivered
+
+### Revenue Performance Visibility
+
+The project established a structured framework for monitoring revenue performance through KPI analysis, trend analysis, and executive dashboard reporting.
+
+This enables stakeholders to:
+
+- Monitor overall revenue performance.
+- Evaluate revenue trends over time.
+- Support data-driven business planning.
+
+---
+
+### Revenue Risk Assessment
+
+Revenue Concentration Analysis evaluated whether EduMax was overly dependent on a small number of courses for business growth.
+
+The analysis confirmed that revenue is reasonably diversified across the course portfolio, reducing concerns about excessive revenue concentration.
+
+This provides stakeholders with greater confidence in the sustainability of the current course portfolio.
+
+---
+
+### Revenue Driver Understanding
+
+Revenue Driver Analysis improved stakeholder understanding of the factors contributing to revenue generation.
+
+The analysis demonstrated that revenue is supported through a combination of learner demand and course pricing rather than relying on a single business factor.
+
+This insight supports future decisions related to course portfolio management and pricing strategy.
+
+---
+
+### Executive Decision Support
+
+Revenue dashboards were developed to provide leadership with a centralized view of business performance.
+
+These dashboards enable stakeholders to:
+
+- Monitor revenue KPIs.
+- Track revenue trends.
+- Compare business performance over time.
+- Support strategic planning through visual analytics.
+
+---
+
+## Stakeholder Outcome
+
+The initial stakeholder concern regarding revenue performance was successfully investigated through multiple analytical approaches.
+
+Based on the completed analyses, no significant underlying revenue issue was identified. The findings indicate that revenue generally aligns with enrollment activity, while observed fluctuations are primarily associated with premium-course enrollments.
+
+As a result, stakeholder attention has shifted toward understanding learner behavior after enrollment, with Learner Journey and Drop-off Analysis becoming the next strategic business priority.
+
+---
+
+> **Business Impact Status:** Ongoing
+
+The EduMax Business Analytics project continues to expand its business impact as additional analyses, dashboards, and stakeholder recommendations are completed.
+
+---
+
+## Current Project Status
+
+### Completed
+
+- Revenue Analysis
+- Revenue Concentration Analysis
+- Revenue Driver Analysis
+- Revenue Time-Series Analysis
+
+### In Progress
+
 - Learner Journey & Drop-off Analysis
+
+### Planned
+
+- Learner Engagement Analysis
 - Course Performance Analysis
 - Assessment Performance Analysis
-- Customer Segmentation Analysis
-- Business Insight Reports
-- Strategic Business Recommendations
+- Customer Satisfaction Analysis
+- Learner Segmentation
+- Executive Dashboard Suite
+- Final Business Recommendations
 
-### Preview Components
+---
 
-This section will include:
-
-- Dashboard screenshots
-- KPI summaries
-- Business insight highlights
-- SQL analysis outputs
-- Python visualizations
-- Executive reporting snapshots
-- Key recommendations for stakeholders
-
-> **Note:** All results presented in this repository will be derived from completed analyses performed during the project. No findings or recommendations will be published until they have been fully validated.
-
+> **Note:** All findings presented above are based on completed analyses within this project. Additional business insights, dashboards, and recommendations will be added as future project milestones are completed.
 ---
 
 # Business Impact
