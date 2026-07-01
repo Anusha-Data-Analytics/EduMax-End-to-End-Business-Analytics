@@ -902,59 +902,6 @@ The EduMax Business Analytics project continues to expand its business impact as
 ---
 
 > **Note:** All findings presented above are based on completed analyses within this project. Additional business insights, dashboards, and recommendations will be added as future project milestones are completed.
----
-
-## Business Impact
-
-The primary objective of the EduMax Business Analytics project is to demonstrate how data-driven analytics can support business decision-making across an EdTech organization.
-
-By integrating SQL, Python, and Power BI into a structured analytics workflow, the project aims to provide stakeholders with meaningful insights into learner behavior, operational performance, and business growth opportunities.
-
-### Expected Business Value
-
-Upon completion, the project is expected to deliver value in the following business areas:
-
-#### Learner Engagement
-
-- Improve visibility into learner engagement across courses.
-- Identify engagement patterns and behavioral trends.
-- Support initiatives to increase learner participation and retention.
-
-#### Learner Journey Optimization
-
-- Identify stages where learners disengage during their learning journey.
-- Quantify learner drop-off across different courses and learner segments.
-- Support strategies to improve course completion rates.
-
-#### Revenue Performance
-
-- Monitor revenue trends and payment behavior.
-- Identify key revenue drivers across courses and learner segments.
-- Support revenue-focused business planning and decision-making.
-
-#### Course Performance
-
-- Evaluate course popularity and learner outcomes.
-- Compare performance across course categories.
-- Support continuous improvement of the course portfolio.
-
-#### Business Intelligence
-
-- Establish standardized KPIs for monitoring organizational performance.
-- Provide interactive dashboards for business users and leadership.
-- Improve visibility into operational and strategic business metrics.
-
-#### Executive Decision Support
-
-The insights generated throughout this project are intended to support stakeholders in making informed decisions related to:
-
-- Learner engagement strategies
-- Course optimization
-- Revenue growth
-- Business performance monitoring
-- Data-driven strategic planning
-
-> **Note:** This project is currently in progress. The business impact described above represents the intended outcomes of the completed analytics framework. Actual findings, quantified results, and business recommendations will be documented as each phase of the project is completed.
 
 --- 
 
@@ -981,18 +928,6 @@ The EduMax Business Analytics project is being developed through a structured, s
 | ⏳ Planned | Executive Dashboard Suite | Develop a comprehensive Power BI dashboard covering all major business KPIs. |
 | ⏳ Planned | Business Recommendations | Translate analytical findings into strategic recommendations for stakeholders. |
 | ⏳ Planned | Executive Presentation | Prepare a consulting-style presentation summarizing the project, findings, and recommendations. |
-
-### Current Project Status
-
-**Current Business Priority**
-
-The revenue analysis phase has been successfully completed, resolving the initial stakeholder concern regarding revenue performance.
-
-The project is now focused on understanding the post-enrollment learner journey, with particular emphasis on learner engagement, drop-off behavior, and retention opportunities. These analyses will guide future recommendations aimed at improving learner success and overall platform performance.
-
-> **Repository Status:** Actively Maintained
-
-New analyses, dashboards, reports, and business insights will be added as project milestones are completed.
 
 ---
 
@@ -1024,6 +959,8 @@ The current analysis phase focuses on:
 - Supporting future recommendations to improve learner retention.
 
 ## Project Status
+
+> **Repository Status:** Actively Maintained
 
 🚧 EduMax is actively being developed with new analyses, dashboards, reports, and documentation added as each business problem is completed and validated.
 
