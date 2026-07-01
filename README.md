@@ -270,7 +270,7 @@ The data model enables comprehensive business analysis across learner engagement
 | Dataset | Business Process | Business Purpose |
 |----------|------------------|------------------|
 | **users.csv** | User Management | Stores learner demographic information used for customer segmentation and user-level analysis. |
-| **courses.csv** | Course Catalog | Contains course details, pricing, categories, and instructor information used to evaluate course performance and revenue contribution. |
+| **courses.csv** | Course Catalog | Contains course details, pricing and categories used to evaluate course performance and revenue contribution. |
 | **enrollments.csv** | Enrollment Management | Records learner enrollments and forms the starting point of the learner journey analysis. |
 | **sessions.csv** | Learning Activity | Captures learner session activity, enabling engagement analysis, learning behavior analysis, and drop-off identification. |
 | **assessments.csv** | Learning Assessment | Stores assessment attempts and scores used to measure learner performance and course effectiveness. |
@@ -282,3 +282,36 @@ The data model enables comprehensive business analysis across learner engagement
 These datasets are connected through common business entities such as users, courses, enrollments, and payments, allowing analysis across the complete learner lifecycle.
 
 The integrated data model supports cross-functional business analysis by connecting operational activities with strategic business outcomes, enabling stakeholders to understand how learner behavior influences engagement, course performance, and revenue generation.
+
+---
+
+# Data Dictionary
+
+The EduMax project consists of multiple business datasets representing different stages of the learner lifecycle. Each dataset contains attributes that support business analysis, KPI measurement, and decision-making.
+
+| Dataset | Primary Key | Business Entity | Description |
+|----------|-------------|-----------------|-------------|
+| **users.csv** | user_id | Learner | Stores learner demographic and registration information used for segmentation and user-level analysis. |
+| **courses.csv** | course_id | Course | Contains course information, pricing, categories, and instructor details. |
+| **enrollments.csv** | enrollment_id | Enrollment | Records learner enrollments and connects users with courses. |
+| **sessions.csv** | session_id | Learning Session | Captures learner activity and engagement throughout the learning journey. |
+| **assessments.csv** | assessment_id | Assessment | Stores learner assessment attempts, scores, and performance metrics. |
+| **feedback.csv** | feedback_id | Feedback | Contains learner ratings and textual feedback used to measure satisfaction. |
+| **payments.csv** | payment_id | Payment | Records financial transactions associated with course purchases and subscriptions. |
+
+## Entity Relationships
+
+The datasets are linked through common business identifiers that represent the operational workflow of the EduMax platform.
+
+Key relationships include:
+
+- Users enroll in courses.
+- Enrollments generate learning sessions.
+- Learners complete assessments.
+- Learners provide course feedback.
+- Payments are associated with learner enrollments.
+- Courses generate revenue through successful payments.
+
+These relationships enable end-to-end business analysis across learner acquisition, engagement, performance, satisfaction, and revenue generation.
+
+> **Note:** Detailed field-level data dictionaries for each dataset are available in the `10_Documentation/Data_Dictionary` folder.
