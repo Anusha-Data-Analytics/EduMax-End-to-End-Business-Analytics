@@ -14,6 +14,18 @@
 
 ---
 
+## Executive Summary
+
+EduMax is a consulting-style End-to-End Business Analytics project that simulates how a Business-Oriented Data Analyst partners with stakeholders to solve real business problems in an EdTech organization.
+
+The project follows the complete analytics lifecycle, beginning with business understanding and stakeholder requirement gathering, followed by data preparation, SQL analysis, Python-based exploratory data analysis, KPI development, Power BI dashboard creation, and business recommendations.
+
+Unlike traditional portfolio projects that focus primarily on technical implementation, EduMax emphasizes business context, stakeholder communication, decision support, and evidence-based recommendations. Each analysis begins with a real business concern, is validated through data, and concludes with actionable insights that support strategic decision-making.
+
+The project is developed incrementally, with each completed business analysis contributing to a growing repository of reports, dashboards, SQL scripts, Python notebooks, and documentation that reflects a real-world analytics engagement.
+
+---
+
 ## Repository Identity
 
 A consulting-style end-to-end Business Analytics project demonstrating how data-driven insights can improve learner engagement, business performance, and strategic decision-making in an EdTech organization.
